@@ -29,8 +29,6 @@ Kami sangat menghargai semangat kolaborasi. Jika Anda adalah anggota PPMI Madina
 2. Fork repositori yang ingin Anda kembangkan.
 3. Kirimkan Pull Request (PR) dengan penjelasan yang jelas.
 
-Untuk akses kontributor internal, silakan hubungi tim **Media & IT PPMI Madinah**.
-
 ---
 
 ### 📱 Hubungi Kami
@@ -39,8 +37,5 @@ Pantau terus kegiatan dan informasi terbaru kami melalui:
 
 *   🌐 **Website**: [ppmimadinah.com](https://ppmimadinah.com)
 *   📸 **Instagram**: [@ppmimadinah](https://instagram.com/ppmimadinah)
-*   📧 **Email**: it@ppmimadinah.com
+*   📧 **Email**: admin@ppmimadinah.com
 
----
-
-Managed with ❤️ by **Media & IT Division, PPMI Madinah**.
