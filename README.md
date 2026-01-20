@@ -24,7 +24,7 @@ Kami terbuka terhadap teknologi modern untuk memberikan performa dan pengalaman 
 
 ### 🤝 Kontribusi
 
-Kami sangat menghargai semangat kolaborasi. Jika Anda adalah anggota PPMI Madinah yang tertarik dengan dunia *software development*, silakan:
+Kami sangat menghargai semangat kolaborasi, silakan:
 1. Cari isu yang sedang terbuka di repositori kami.
 2. Fork repositori yang ingin Anda kembangkan.
 3. Kirimkan Pull Request (PR) dengan penjelasan yang jelas.
