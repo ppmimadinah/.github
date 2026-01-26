@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="../images/LogoPPMIcolor.svg" width="200" alt="PPMI Madinah Logo" />
+  <img src="../images/LogoPPMIcolor.svg" width="100" alt="PPMI Madinah Logo" />
 
   <h1 align="center">PPMI Madinah</h1>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9C5D&center=true&vCenter=true&width=500&lines=Ahlan+wa+Sahlan!+%F0%9F%91%8B;Persatuan+Pelajar+dan+Mahasiswa+Indonesia;Universitas+Islam+Madinah;Berkhidmat+untuk+Umat" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9C5D&center=true&vCenter=true&width=500&lines=Ahlan+wa+Sahlan!+%F0%9F%91%8B;Universitas+Islam+Madinah;Berkhidmat+untuk+Umat" alt="Typing SVG" /></a>
 
-  <br><br>
+  <br>
 
   <p align="center">
     <b>Solid • Aktif • Dedikatif</b>
