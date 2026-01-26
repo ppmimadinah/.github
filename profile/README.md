@@ -1,15 +1,15 @@
 <div align="center">
 
-  <h1>🏰</h1>
+  <img src="../images/LogoPPMIcolor.svg" width="200" alt="PPMI Madinah Logo" />
 
   <h1 align="center">PPMI Madinah</h1>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9C5D&center=true&vCenter=true&width=500&lines=Ahlan+wa+Sahlan!+%F0%9F%91%8B;Persatuan+Pelajar+Indonesia;Universitas+Islam+Madinah;Berkhidmat+untuk+Umat" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9C5D&center=true&vCenter=true&width=500&lines=Ahlan+wa+Sahlan!+%F0%9F%91%8B;Persatuan+Pelajar+dan+Mahasiswa+Indonesia;Universitas+Islam+Madinah;Berkhidmat+untuk+Umat" alt="Typing SVG" /></a>
 
   <br><br>
 
   <p align="center">
-    <b>Innovation • Service • Fraternity</b>
+    <b>Solid • Aktif • Dedikatif</b>
     <br>
     Membangun ekosistem digital untuk melayani mahasiswa Indonesia di Kota Nabi.
   </p>
@@ -82,5 +82,5 @@ Kami menggunakan teknologi modern untuk memastikan performa dan skalabilitas.
 <br>
 <hr>
 <div align="center">
-  <sub>Maintained by <a href="https://github.com/SiddiqMSF">SiddiqMSF</a> & PPMI IT Team</sub>
+  <sub>Maintained by <a href="https://github.com/SiddiqMSF">SiddiqMSF</a> & PPMI Media & Informasi Team</sub>
 </div>
