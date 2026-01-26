@@ -1,41 +1,47 @@
-# 🇸🇦 Persatuan Pelajar Mahasiswa Indonesia (PPMI) Madinah
+# Ahlan wa Sahlan di GitHub PPMI Madinah! 🏰🌴
 
-Selamat datang di akun GitHub resmi **PPMI Madinah**. Kami adalah organisasi yang menghimpun dan memfasilitasi mahasiswa Indonesia yang sedang menempuh pendidikan di Madinah, Arab Saudi. 
+**Persatuan Pelajar dan Mahasiswa Indonesia (PPMI) Madinah**
 
-Repositori ini merupakan pusat pengembangan teknologi dan digitalisasi untuk mendukung dakwah, informasi, dan pelayanan bagi seluruh anggota dan masyarakat luas.
+Selamat datang di dapur digital PPMI Madinah! 👋
 
----
+Akun GitHub ini digunakan untuk menyimpan dan mengelola kode pemrograman (source code) dari berbagai aplikasi dan website yang melayani kebutuhan mahasiswa Indonesia di Universitas Islam Madinah.
 
-### 🚀 Proyek Utama Kami
-
-Kami sedang aktif mengembangkan beberapa platform digital:
-
-*   **[Web Utama](https://github.com/ppmimadinah/web)**: Website profil PPMI Madinah yang dibangun menggunakan **Astro** dan **Keystatic CMS**. Menjadi pusat berita, artikel faidah, dan pengumuman resmi.
-*   **[Portal PPMI](https://github.com/ppmimadinah/portal)**: Sistem internal dan layanan mahasiswa untuk mempermudah administrasi dan koordinasi anggota.
-
-### 🛠️ Teknologi yang Kami Gunakan
-
-Kami terbuka terhadap teknologi modern untuk memberikan performa dan pengalaman pengguna terbaik:
-- **Frontend**: Astro, React, Tailwind CSS.
-- **Backend/CMS**: Keystatic, Supabase.
-- **Tools**: GitHub Actions, Netlify.
+Karena memuat data mahasiswa dan sistem internal organisasi, repositori kode di sini bersifat **Privat** (tidak bisa diakses umum). Namun, aplikasi dan website yang dihasilkan dapat diakses dan dimanfaatkan secara langsung oleh seluruh mahasiswa.
 
 ---
 
-### 🤝 Kontribusi
+## 🚀 Ekosistem Digital
 
-Kami sangat menghargai semangat kolaborasi, silakan:
-1. Cari isu yang sedang terbuka di repositori kami.
-2. Fork repositori yang ingin Anda kembangkan.
-3. Kirimkan Pull Request (PR) dengan penjelasan yang jelas.
+Akun ini menjadi pusat pengembangan sistem untuk memudahkan kehidupan mahasiswa di Madinah, di antaranya:
+
+### 1. 🌐 [Website Resmi PPMI](https://ppmimadinah.com)
+Pusat informasi terlengkap seputar kampus, berita kegiatan, dan berbagai publikasi serta tulisan karya mahasiswa.
+
+### 2. 🔐 Portal Mahasiswa
+Sistem aplikasi terintegrasi untuk pelayanan administrasi, data akademik, dan kebutuhan organisasi lainnya secara daring.
 
 ---
 
-### 📱 Hubungi Kami
+## 💻 Teknologi
 
-Pantau terus kegiatan dan informasi terbaru kami melalui:
+Seluruh sistem dibangun menggunakan teknologi web modern untuk memastikan layanan yang cepat, aman, dan mudah digunakan oleh siapa saja.
 
-*   🌐 **Website**: [ppmimadinah.com](https://ppmimadinah.com)
-*   📸 **Instagram**: [@ppmimadinah](https://instagram.com/ppmimadinah)
-*   📧 **Email**: admin@ppmimadinah.com
+<div align="left">
+  <img src="https://img.shields.io/badge/Astro-Release-orange?style=flat&logo=astro" alt="Astro" />
+  <img src="https://img.shields.io/badge/Supabase-Database-green?style=flat&logo=supabase" alt="Supabase" />
+  <img src="https://img.shields.io/badge/React-UI-blue?style=flat&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-Logic-3178C6?style=flat&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Cloudflare_Pages-Deploy-F38020?style=flat&logo=cloudflare" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-Styling-38B2AC?style=flat&logo=tailwindcss" alt="Tailwind" />
+</div>
 
+Tujuan utama dari pengembangan digital ini adalah untuk mendigitalisasi proses administrasi dan penyebaran informasi, sehingga dapat melayani umat dan mahasiswa dengan lebih efisien.
+
+---
+
+📍 **Madinah Al-Munawwarah**
+🐦 Twitter: [@ppmimadinah](https://twitter.com/ppmimadinah) | 📷 Instagram: [@ppmimadinah](https://instagram.com/ppmimadinah) | 🌐 Web: [ppmimadinah.com](https://ppmimadinah.com)
+
+---
+
+Maintained by [SiddiqMSF](https://github.com/SiddiqMSF)
