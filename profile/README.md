@@ -1,46 +1,86 @@
-# Ahlan wa Sahlan di GitHub PPMI Madinah! 🏰🌴
+<div align="center">
 
-**Persatuan Pelajar dan Mahasiswa Indonesia (PPMI) Madinah**
+  <h1>🏰</h1>
 
-Selamat datang di dapur digital PPMI Madinah! 👋
+  <h1 align="center">PPMI Madinah</h1>
 
-Akun GitHub ini digunakan untuk menyimpan dan mengelola kode pemrograman (source code) dari berbagai aplikasi dan website yang melayani kebutuhan mahasiswa Indonesia di Universitas Islam Madinah.
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9C5D&center=true&vCenter=true&width=500&lines=Ahlan+wa+Sahlan!+%F0%9F%91%8B;Persatuan+Pelajar+Indonesia;Universitas+Islam+Madinah;Berkhidmat+untuk+Umat" alt="Typing SVG" /></a>
 
-Karena memuat data mahasiswa dan sistem internal organisasi, repositori kode di sini bersifat **Privat** (tidak bisa diakses umum). Namun, aplikasi dan website yang dihasilkan dapat diakses dan dimanfaatkan secara langsung oleh seluruh mahasiswa.
+  <br><br>
 
----
+  <p align="center">
+    <b>Innovation • Service • Fraternity</b>
+    <br>
+    Membangun ekosistem digital untuk melayani mahasiswa Indonesia di Kota Nabi.
+  </p>
 
-## 🚀 Ekosistem Digital
+  <br>
 
-Akun ini menjadi pusat pengembangan sistem untuk memudahkan kehidupan mahasiswa di Madinah, di antaranya:
+  <div align="center">
+    <a href="https://ppmimadinah.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Website-ppmimadinah.com-2E9C5D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    </a>
+    &nbsp;
+    <a href="https://portal.ppmimadinah.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Portal-Mahasiswa-3178C6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Portal" />
+    </a>
+  </div>
 
-### 1. 🌐 [Website Resmi PPMI](https://ppmimadinah.com)
-Pusat informasi terlengkap seputar kampus, berita kegiatan, dan berbagai publikasi serta tulisan karya mahasiswa.
-
-### 2. 🔐 [Portal Mahasiswa](https://portal.ppmimadinah.com)
-Sistem aplikasi terintegrasi untuk pelayanan administrasi, data akademik, dan kebutuhan mahasiswa lainnya secara daring.
-
----
-
-## 💻 Teknologi
-
-Seluruh sistem dibangun menggunakan teknologi web modern untuk memastikan layanan yang cepat, aman, dan mudah digunakan oleh siapa saja.
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Astro-Release-orange?style=flat&logo=astro" alt="Astro" />
-  <img src="https://img.shields.io/badge/Supabase-Database-green?style=flat&logo=supabase" alt="Supabase" />
-  <img src="https://img.shields.io/badge/TypeScript-Logic-3178C6?style=flat&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Cloudflare_Pages-Deploy-F38020?style=flat&logo=cloudflare" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-Styling-38B2AC?style=flat&logo=tailwindcss" alt="Tailwind" />
 </div>
 
-Tujuan utama dari pengembangan digital ini adalah untuk mendigitalisasi proses administrasi dan penyebaran informasi, sehingga dapat melayani umat dan mahasiswa dengan lebih efisien.
+<br>
 
----
+## 🌌 Digital Ecosystem
 
-📍 **Madinah Al-Munawwarah**
-🐦 Twitter: [@ppmimadinah](https://twitter.com/ppmimadinah) | 📷 Instagram: [@ppmimadinah](https://instagram.com/ppmimadinah) | 🌐 Web: [ppmimadinah.com](https://ppmimadinah.com)
+Kami berfokus pada pengembangan aplikasi yang **cepat**, **aman**, dan **bermanfaat**.
 
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🌐 PPMI Main Site</h3>
+        <p>Pusat berita, informasi akademik, dan karya mahasiswa.</p>
+        <a href="https://ppmimadinah.com">Explore</a>
+      </td>
+      <td align="center" width="50%">
+        <h3>🔐 Portal Akademik</h3>
+        <p>Sistem layanan mandiri (<i>Self-Service</i>) untuk administrasi.</p>
+        <a href="https://portal.ppmimadinah.com">Login</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-Maintained by [SiddiqMSF](https://github.com/SiddiqMSF)
+<br>
+
+## 🛠️ Tech Stack
+
+Kami menggunakan teknologi modern untuk memastikan performa dan skalabilitas.
+
+<div align="center">
+  <br>
+  <img src="https://skillicons.dev/icons?i=astro,ts,react,tailwind,supabase,cloudflare,flutter,dart,figma,githubactions" />
+  <br>
+</div>
+
+<br>
+
+## 📬 Connect with Us
+
+<div align="center"> 
+  <a href="https://instagram.com/ppmimadinah">
+    <img src="https://img.shields.io/badge/Instagram-%40ppmimadinah-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ppmimadinah">
+    <img src="https://img.shields.io/badge/Twitter-%40ppmimadinah-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:it.ppmimadinah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br>
+<hr>
+<div align="center">
+  <sub>Maintained by <a href="https://github.com/SiddiqMSF">SiddiqMSF</a> & PPMI IT Team</sub>
+</div>
