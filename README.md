@@ -18,7 +18,7 @@ Akun ini menjadi pusat pengembangan sistem untuk memudahkan kehidupan mahasiswa 
 Pusat informasi terlengkap seputar kampus, berita kegiatan, dan berbagai publikasi serta tulisan karya mahasiswa.
 
 ### 2. 🔐 [Portal Mahasiswa](https://portal.ppmimadinah.com)
-Sistem aplikasi terintegrasi untuk pelayanan administrasi, data akademik, dan kebutuhan organisasi lainnya secara daring.
+Sistem aplikasi terintegrasi untuk pelayanan administrasi, data akademik, dan kebutuhan mahasiswa lainnya secara daring.
 
 ---
 
@@ -29,7 +29,6 @@ Seluruh sistem dibangun menggunakan teknologi web modern untuk memastikan layana
 <div align="left">
   <img src="https://img.shields.io/badge/Astro-Release-orange?style=flat&logo=astro" alt="Astro" />
   <img src="https://img.shields.io/badge/Supabase-Database-green?style=flat&logo=supabase" alt="Supabase" />
-  <img src="https://img.shields.io/badge/React-UI-blue?style=flat&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-Logic-3178C6?style=flat&logo=typescript" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Cloudflare_Pages-Deploy-F38020?style=flat&logo=cloudflare" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-Styling-38B2AC?style=flat&logo=tailwindcss" alt="Tailwind" />
