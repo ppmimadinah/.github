@@ -17,7 +17,7 @@ Akun ini menjadi pusat pengembangan sistem untuk memudahkan kehidupan mahasiswa 
 ### 1. 🌐 [Website Resmi PPMI](https://ppmimadinah.com)
 Pusat informasi terlengkap seputar kampus, berita kegiatan, dan berbagai publikasi serta tulisan karya mahasiswa.
 
-### 2. 🔐 Portal Mahasiswa
+### 2. 🔐 [Portal Mahasiswa](https://portal.ppmimadinah.com)
 Sistem aplikasi terintegrasi untuk pelayanan administrasi, data akademik, dan kebutuhan organisasi lainnya secara daring.
 
 ---
