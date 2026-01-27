@@ -59,7 +59,7 @@ Kami menggunakan teknologi modern untuk memastikan performa dan skalabilitas.
 
 <div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=astro,ts,react,tailwind,supabase,cloudflare,flutter,dart,figma,githubactions" />
+  <img src="https://skillicons.dev/icons?i=astro,ts,tailwind,supabase,cloudflare,githubactions" />
   <br>
 </div>
 
@@ -71,8 +71,8 @@ Kami menggunakan teknologi modern untuk memastikan performa dan skalabilitas.
   <a href="https://instagram.com/ppmimadinah">
     <img src="https://img.shields.io/badge/Instagram-%40ppmimadinah-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/ppmimadinah">
-    <img src="https://img.shields.io/badge/Twitter-%40ppmimadinah-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://x.com/ppmimadinah">
+    <img src="https://img.shields.io/badge/X-%40ppmimadinah-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:it.ppmimadinah@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
