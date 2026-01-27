@@ -22,7 +22,7 @@
     </a>
     &nbsp;
     <a href="https://portal.ppmimadinah.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Portal-Mahasiswa-3178C6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Portal" />
+      <img src="https://img.shields.io/badge/Portal-Mahasiswa-3178C6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portal" />
     </a>
   </div>
 
@@ -38,7 +38,7 @@ Kami berfokus pada pengembangan aplikasi yang **cepat**, **aman**, dan **bermanf
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🌐 PPMI Main Site</h3>
+        <h3>🌐 Website PPMI</h3>
         <p>Pusat berita, informasi akademik, dan karya mahasiswa.</p>
         <a href="https://ppmimadinah.com">Explore</a>
       </td>
