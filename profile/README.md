@@ -35,20 +35,13 @@
 Kami berfokus pada pengembangan aplikasi yang **cepat**, **aman**, dan **bermanfaat**.
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🌐 Website PPMI</h3>
-        <p>Pusat berita, informasi akademik, dan karya mahasiswa.</p>
-        <a href="https://ppmimadinah.com">Explore</a>
-      </td>
-      <td align="center" width="50%">
-        <h3>🔐 Portal Akademik</h3>
-        <p>Sistem layanan mandiri (<i>Self-Service</i>) untuk administrasi.</p>
-        <a href="https://portal.ppmimadinah.com">Login</a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://portal.ppmimadinah.com">
+    <img src="../images/83shots_so.png" height="300" alt="Portal PPMI Madinah" />
+  </a>
+  &nbsp;
+  <a href="https://ppmimadinah.com">
+    <img src="../images/561shots_so.png" height="300" alt="Website PPMI Madinah" />
+  </a>
 </div>
 
 <br>
